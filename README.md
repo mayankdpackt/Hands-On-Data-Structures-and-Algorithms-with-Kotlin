@@ -55,7 +55,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 ### Related products
 * Hands-On Object-Oriented Programming with Kotlin [[Packt]](https://www.packtpub.com/application-development/hands-object-oriented-programming-kotlin?utm_source=github&utm_medium=repository&utm_campaign=9781789617726 ) [[Amazon]](https://www.amazon.com/dp/1789617723)
 
-*  [[Packt]](https://www.packtpub.com/application-development/learning-concurrency-kotlin?utm_source=github&utm_medium=repository&utm_campaign=) [[Amazon]](https://www.amazon.com/dp/1788627164)
+*  Learning Concurrency in Kotlin [[Packt]](https://www.packtpub.com/application-development/learning-concurrency-kotlin?utm_source=github&utm_medium=repository&utm_campaign=) [[Amazon]](https://www.amazon.com/dp/1788627164)
 
 *  [[Packt]]() [[Amazon]](https://www.amazon.com/dp/)
 
@@ -70,15 +70,6 @@ is a Google Certified Android Developer, Caster.io Instructor and a Kotlin Evang
 Rivu considers himself a Kotlin and Android enthusiast, cum evangelist. He has been using Kotlin since December 2015. Rivu created the KotlinKolkata User Group and before moving out to Bangalore, he had been the lead organiser for both Kotlin Kolkata User Group and GDG Kolkata. 
 Along with organising events, he also speaks at events/conferences in India, including DroidJam India (India's premiere Android Conference) and a couple of DevFests.
 Rivu has authored multiple books on Kotlin and Android Development.
-
-****
-0
-
-****
-0
-
-****
-0
 
 ## Other books by the authors
 [](https://www.packtpub.com/application-development/reactive-programming-kotlin?utm_source=github&utm_medium=repository&utm_campaign=)
