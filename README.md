@@ -57,10 +57,6 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 *  Learning Concurrency in Kotlin [[Packt]](https://www.packtpub.com/application-development/learning-concurrency-kotlin?utm_source=github&utm_medium=repository&utm_campaign=) [[Amazon]](https://www.amazon.com/dp/1788627164)
 
-*  [[Packt]]() [[Amazon]](https://www.amazon.com/dp/)
-
-*  [[Packt]]() [[Amazon]](https://www.amazon.com/dp/)
-
 ## Get to Know the Author
 **Chandra Sekhar Nayak**
 is an experienced Java Developer with an extensive knowledge in Android development. He has done a lot of Android applications with larger user base. He is an active member of communities around Java and Android. Being a Kotlin enthusiast, he also created a Kotlin User Group in Bengaluru, India called BlrKotlin. He runs a YouTube channel called Chanse Code. In his spare time he loves writing blogs.
@@ -72,15 +68,9 @@ Along with organising events, he also speaks at events/conferences in India, inc
 Rivu has authored multiple books on Kotlin and Android Development.
 
 ## Other books by the authors
-[](https://www.packtpub.com/application-development/reactive-programming-kotlin?utm_source=github&utm_medium=repository&utm_campaign=)
+[Reactive Programming in Kotlin](https://www.packtpub.com/application-development/reactive-programming-kotlin?utm_source=github&utm_medium=repository&utm_campaign=9781788473026)
 
 [Functional Kotlin](https://www.packtpub.com/application-development/functional-kotlin?utm_source=github&utm_medium=repository&utm_campaign=9781788476485 )
-
-[]()
-
-[]()
-
-[]()
 
 ### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
